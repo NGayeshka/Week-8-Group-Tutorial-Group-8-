@@ -1,5 +1,6 @@
 public class Player {
-	private String name;  //Updated by Feature 02
+
+	private String name; // Name Of The Player
 	private int age;
 	private String type;
 	private int statistics;
@@ -38,4 +39,7 @@ public class Player {
     }
  }
 
- // Updated by Feature 02
+ // Testing Git Repo (Updated by Feature 01)
+
+ // Updated by Feature 1 again
+
