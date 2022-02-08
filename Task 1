@@ -1,5 +1,5 @@
 public class Player {
-	private String name;
+	private String name;  //Updated by Feature 02
 	private int age;
 	private String type;
 	private int statistics;
@@ -37,3 +37,5 @@ public class Player {
   
     }
  }
+
+ // Updated by Feature 02
